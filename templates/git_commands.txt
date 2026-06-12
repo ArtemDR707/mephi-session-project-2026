@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m "Add MEPHI session project 2026 files"
+git branch -M main
+git remote add origin https://github.com/ArtemDR707/mephi-session-project-2026.git
+git push -u origin main

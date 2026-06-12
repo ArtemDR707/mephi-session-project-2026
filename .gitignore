@@ -1,0 +1,21 @@
+# Temporary/editor files
+*.swp
+*~
+.DS_Store
+
+# Local logs
+*.log
+
+# Do not ignore required project artifacts after real run
+!project_history.txt
+!network_check.txt
+!nginx_recent_logs.txt
+!fstab.txt
+!selinux_status.txt
+!file_contexts.txt
+!tcpdump_capabilities.txt
+!permissions.txt
+!users_groups.txt
+!curl_output.txt
+!mephi-nginx-screenshot.png
+!tcpdump*.rpm

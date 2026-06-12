@@ -1,0 +1,4 @@
+tcpdump version 4.99.6
+libpcap version 1.10.5 (with TPACKET_V3)
+OpenSSL 3.5.1 1 Jul 2025
+Usage: tcpdump [-AbdDefhHIJKlLnNOpqStuUvxX#] [ -B size ] [ -c count ]

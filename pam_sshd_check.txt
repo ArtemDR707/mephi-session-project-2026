@@ -1,0 +1,1 @@
+auth required pam_listfile.so item=user sense=deny file=/etc/security/denied_users onerr=succeed

@@ -1,0 +1,10 @@
+RPM artifact for section 2.2
+
+File included in this repository:
+- tcpdump.rpm
+- tcpdump-4.99.6-2.fc43.x86_64.rpm
+
+The RPM file corresponds to the Fedora 43 tcpdump package downloaded by dnf download:
+  tcpdump-4.99.6-2.fc43.x86_64.rpm
+
+It is included as proof of the local RPM-package step required by the assignment.
